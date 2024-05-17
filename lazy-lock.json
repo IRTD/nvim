@@ -1,0 +1,17 @@
+{
+  "auto-pairs": { "branch": "master", "commit": "39f06b873a8449af8ff6a3eee716d3da14d63a76" },
+  "coc.nvim": { "branch": "release", "commit": "f1ffb8d9b336ec6fe2ea0bd68ffeff5b77150e43" },
+  "ctrlp.vim": { "branch": "master", "commit": "564176f01d7f3f7f8ab452ff4e1f5314de7b0981" },
+  "lazy.nvim": { "branch": "main", "commit": "758bb5de98b805acc5eeed8cdc8ac7f0bc4b0b86" },
+  "nvim-web-devicons": { "branch": "master", "commit": "e37bb1feee9e7320c76050a55443fa843b4b6f83" },
+  "plenary.nvim": { "branch": "master", "commit": "08e301982b9a057110ede7a735dd1b5285eb341f" },
+  "telescope.nvim": { "branch": "master", "commit": "bbdbb7593f832c02922075ee57d0681df30d5ee0" },
+  "tokyodark.nvim": { "branch": "master", "commit": "ba538ab69e8a4e3ebac127734b7deff9e7462463" },
+  "tokyonight-vim": { "branch": "master", "commit": "4e82e0f0452a6ce8f387828ec71013015515035a" },
+  "vim-airline": { "branch": "master", "commit": "ff0f9a45a5d81d2c8aa67601c264b18c4fe26b15" },
+  "vim-allomancer": { "branch": "master", "commit": "ea5f7c26f119116b14ff66b48117a542a9b4103f" },
+  "vim-commentary": { "branch": "master", "commit": "c4b8f52cbb7142ec239494e5a2c4a512f92c4d07" },
+  "vim-surround": { "branch": "master", "commit": "3d188ed2113431cf8dac77be61b842acb64433d9" },
+  "vim-visual-multi": { "branch": "master", "commit": "b84a6d42c1c10678928b0bf8327f378c8bc8af5a" },
+  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
+}
