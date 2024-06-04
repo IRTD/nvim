@@ -12,5 +12,6 @@ local colors = {
         "rafalbromirski/vim-aurora",
         "StarryLeo/starry-vim-colorschemes",
         { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+        "itsjunetime/rose-pine-vim",
 }
 return colors

@@ -2,7 +2,7 @@ vim.g.mapleader = " "
 
 local set = vim.keymap.set
 
-set("n", "q", ":wa<CR>", {silent = true })
+-- set("n", "q", ":wa<CR>", {silent = true })
 set("n", "<leader>l", ":wincmd l<CR>", {silent = true })
 set("n", "<leader>k", ":wincmd k<CR>", {silent = true })
 set("n", "<leader>j", ":wincmd j<CR>", {silent = true })
