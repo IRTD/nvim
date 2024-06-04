@@ -18,6 +18,7 @@ set("n", "gi", "<Plug>(coc-implementation)", { silent = true })
 set("n", "gr", "<Plug>(coc-references)", { silent = true })
 set("n", "<C-c>", ":Commentary<CR>", { silent = true })
 set("n", "<leader>f", ":Oil<CR>", { silent = true })
+set("n", "0", "^")
 
 
 -- show docs when K
