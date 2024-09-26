@@ -20,7 +20,6 @@ set("n", "<C-c>", ":Commentary<CR>", { silent = true })
 set("n", "<leader>f", ":Oil<CR>", { silent = true })
 set("n", "0", "^")
 
-
 -- show docs when K
 function _G.show_docs()
     local cw = vim.fn.expand('<cword>')

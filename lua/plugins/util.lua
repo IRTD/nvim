@@ -16,8 +16,11 @@ local utils = {
 		local oil = require('oil')
 		oil.setup()
 	end },
-        -- { "nvimdev/galaxyline.nvim", branch = "main", config = function ()
-            -- require('configs.galaxy')
-        -- end }
+        {
+        "iamcco/markdown-preview.nvim",
+        cmd = { "MarkdownPreviewToggle", "MarkdownPreview", "MarkdownPreviewStop" },
+        ft = { "markdown" },
+        build = function() vim.fn["mkdp#util#install"]() end,
+    }
 }
 return utils
